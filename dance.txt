@@ -1,4 +1,5 @@
 step left,
 step right,
 jump up and down 
+stibing hand
 do the rainbow dance
